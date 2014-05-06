@@ -1,0 +1,48 @@
+﻿/*Defining page Layout : header, body, footer */
+.header
+{
+    height: 160px;
+    width: 1440px;
+    border-bottom: #000 1px solid;
+    left:  0px;
+    right: 0px;
+    top: 20px;
+    position: fixed;
+}
+.mainbody
+{
+    position: fixed;
+    top: 20px;
+    bottom: 150px;
+    left: 0;
+    right: 0;
+    overflow: auto;
+}
+.footer
+{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 120px;
+    background-image: url('../images/footer.jpg');
+}
+/* Header logo location */
+.headerlogo
+{
+    height: 160px;
+    width: 1292px;
+    border-bottom: #000 1px solid;
+    left:  74px;
+    right: 0px;
+    top: 20px;
+    position: fixed;
+}
+.tmlogo
+{
+    left:  74px;
+    right: 0px;
+    top: 20px;
+    position: fixed;
+    top: 220px;
+}

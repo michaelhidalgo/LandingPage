@@ -1,0 +1,32 @@
+﻿#header {
+                position: fixed;
+                top: 0;
+                left: 0;
+                right: 0;
+                height: 190px;
+                background-image: url('../images/Reworked.jpg');
+            }
+            #footer {
+                position: fixed;
+                bottom: 0;
+                left: 0;
+                right: 0;
+                height: 200px;
+                background-image: url('../images/footer.jpg');
+            }
+            #content {
+                position: fixed;
+                top: 190px;
+                bottom: 200px;
+                left: 0;
+                right: 0;
+                overflow: auto;
+            }
+            #tmLogo{
+                background-image: url('../images/TMLibrary.jpg');
+                top: 200px;
+                width: 450px;
+                left: 0;
+                right: 0;
+                height: 200px;
+             }
